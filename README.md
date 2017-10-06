@@ -1,7 +1,7 @@
 # Gazovik
 ## Theme for Gazovik
 
-This folder contains the aeromax theme files.
+This folder contains the gazovik theme files.
 
 Tree catalogs & files:
 * framework-customizations/ (this folder with plugin Unison)
